@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[37],{"3cs0":function(e,n,t){"use strict";t.r(n);var s=t("q1tI"),a=t.n(s),o=t("S6uJ");n.default=function(){return a.a.createElement(o.a,{lang:"es",title:"FAQ | Full Stack open",seoDescription:"Frequently asked questions"})}}}]);
+//# sourceMappingURL=component---src-pages-faq-es-js-ad37efba9a13deb961c4.js.map
