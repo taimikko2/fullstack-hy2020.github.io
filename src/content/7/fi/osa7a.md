@@ -142,7 +142,7 @@ const App = () => {
 
 Reititys eli komponenttien ehdollinen, selaimen <i>URL:iin perustuva</i> renderöinti otetaan käyttöön sijoittamalla komponentteja <i>Router</i>-komponentin lapsiksi eli <i>Router</i>-tagien sisälle.
 
-Huomaa, että vaikka komponenttiin viitataan nimellä <i>Router</i>, kyseessä on [BrowserRouter](https://reactrouter.com/docs/en/v6/api#browserrouter), sillä importtaus tapahtuu siten, että importattava olio uudelleennimetään:
+Huomaa, että vaikka komponenttiin viitataan nimellä <i>Router</i>, kyseessä on [BrowserRouter]([https://reactrouter.com/en/main/router-components/browser-router]), sillä importtaus tapahtuu siten, että importattava olio uudelleennimetään:
 
 ```js
 import {
